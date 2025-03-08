@@ -109,7 +109,7 @@ const handleCommand =async (key) => {
       <el-main>
         <router-view></router-view>
       </el-main>
-      <el-footer>记事本 ©2024 Created by 229970524 汤树林</el-footer>
+      <el-footer>记事本 ©2024 Created by 229970524 TSL</el-footer>
     </el-container>
   </el-container>
 </template>
